@@ -2,7 +2,7 @@
 Molecular Biologist → Bioinformatics & Computational Biology  
 Assistant Project Scientist | UC Irvine
 
-**Who I am**
+
 I am a molecular biologist with 10+ years of wet-lab experience in ocular and retinal disease research, currently transitioning into bioinformatics and computational biology.
 
 My work sits at the intersection of experimental biology and omics data analysis. I specialize in gene expression and RNA sequencing of eye tissues, with a focus on the lens, retina, and ocular surface. I bring deep biological context to data analysis, not just statistical outputs.
