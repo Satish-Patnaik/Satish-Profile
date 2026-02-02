@@ -1,0 +1,73 @@
+# RNA Analysis Data and Sensitive Files
+# =======================================
+# Keep these files private - DO NOT commit to public repository
+
+# Raw data files (common RNA-seq formats)
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.cram
+*.bed
+*.bedGraph
+*.bigWig
+*.bw
+
+# Count matrices and processed data
+*counts.txt
+*counts.csv
+*expression_matrix.txt
+*expression_matrix.csv
+*.h5
+*.h5ad
+*.loom
+*.rds
+*.RData
+
+# Private analysis folders (uncomment when needed)
+# /bulk-rna-analysis/private/
+# /single-cell-rna-analysis/private/
+
+# R and RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python virtual environments
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Large result files
+results/
+output/
+figures/*.pdf
+figures/*.png
+figures/*.jpg
+
+# Sensitive configuration
+config.yaml
+secrets.yaml
+*.key
+*.pem
+credentials.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp

@@ -7,6 +7,16 @@ Molecular Biologist → Bioinformatics & Computational Biology<br>Assistant Proj
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
+
+## 🧬 Repository Contents:
+This repository contains RNA sequencing analysis workflows and documentation:
+
+- **[Bulk RNA-seq Analysis](bulk-rna-analysis/)** - Differential expression analysis workflows using DESeq2/edgeR
+- **[Single Cell RNA-seq Analysis](single-cell-rna-analysis/)** - scRNA-seq pipelines using Seurat/Scanpy
+- **[Guide for Private Code Management](PRIVATE_CODE_GUIDE.md)** - Instructions for keeping analysis code private until publication
+
+> **Note**: Raw data and unpublished analyses are kept private. Published analysis code and workflows will be added here after peer review and publication.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Satish-Patnaik&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Satish-Patnaik&theme=transparent&hide_border=false)<br/>
